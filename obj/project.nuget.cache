@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZEjXlEYxAAi8PJMqmOzFg3/GmgZs+39NM6OBriUPG/V9vH86BgrPj0rUJPu4vSTAM43vKoTCgghLGyb7pp+wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shelb\\source\\repos\\SendingHttpRequests\\SendingHttpRequests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shelb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\SendingHttpRequests.exe
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\SendingHttpRequests.deps.json
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\SendingHttpRequests.runtimeconfig.json
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\SendingHttpRequests.dll
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\SendingHttpRequests.pdb
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.csproj.AssemblyReference.cache
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.AssemblyInfoInputs.cache
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.AssemblyInfo.cs
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.csproj.CoreCompileInputs.cache
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.dll
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\refint\SendingHttpRequests.dll
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.pdb
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.genruntimeconfig.cache
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\ref\SendingHttpRequests.dll
+C:\Users\shelb\source\repos\SendingHttpRequests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shelb\source\repos\SendingHttpRequests\obj\Debug\net6.0\SendingHttpRequests.csproj.CopyComplete
